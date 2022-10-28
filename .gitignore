@@ -1,0 +1,7 @@
+__pycache__/
+.DS_Store
+.tool-versions
+build/
+disk/
+dist/
+tmp/
