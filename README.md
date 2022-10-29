@@ -2,6 +2,8 @@
 
 A Commodore 64 editor written in Python.
 
+![screen recording](https://user-images.githubusercontent.com/592709/199088866-52509f7c-ab4a-4064-bbfa-648766b1b04a.mp4)
+
 ## Features
 
 * Direct and program mode
